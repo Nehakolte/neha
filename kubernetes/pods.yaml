@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: Neha
   labels: 
-  app:  new-app
+    app:  new-app
 spec:
   containers:
   - name: nginx
