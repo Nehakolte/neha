@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod 
 metadata:
-  name: Neha
+  name: neha
   labels: 
     app: new-app
 spec:
