@@ -1,0 +1,34 @@
+yet markup language
+ key: value
+
+variables
+data types
+
+data types in yaml 
+number: 1 
+bool: true/false
+string: anup
+list: ["anup" , "anup" , "b24" ]
+set: {"lily" , "Rose" , }
+map: { flower:lily , fruit:mango}
+city: pune
+pinecode: 41106
+
+list and map in yaml
+list:       
+    - anup
+    - tejas
+    - arohi
+    - omkar
+map:
+    flower: lily
+    fruit: mango
+
+Multi line in yaml
+address:
+      city: pune
+      pincode: 41105
+      landmark: Nal stop
+      Adressline: |
+        Near saraswati bank
+      
